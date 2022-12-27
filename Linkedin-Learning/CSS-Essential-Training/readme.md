@@ -11,7 +11,7 @@ Learning objectives
 - Leveraging Grid and Flexbox
 - Using the float and position properties
 - Working with advanced selectors
-- Creating fluid layouts
+- Creating fluid layoutsa
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/?resume=false)
 <br>[Preview Certificate](https://drive.google.com/file/d/1eE3ytAYjCYdfQPzs3AhM35MRBaet8g6w/view)
